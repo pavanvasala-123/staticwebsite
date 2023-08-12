@@ -337,7 +337,7 @@ font-family: sans-serif;
     margin-left: 10px;
 }
 .program-card-con{
-    background-image: url(1923063-how-to-create-cool-website-backgrounds-the-ultimate-guide.png);
+    background-image: url("1923063-how-to-create-cool-website-backgrounds-the-ultimate-guide.png");
     height: 100vh;
     background-size: cover;
     display: flex;
@@ -392,7 +392,7 @@ font-family: sans-serif;
 }
 
 .our-studio-bg-image{
-    background-image: url(socialmedia\ bg\ image.avif);
+    background-image: url("socialmedia\ bg\ image.avif");
     height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
